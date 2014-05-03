@@ -1,0 +1,1 @@
+document.body.style.padding='20% 50%';
